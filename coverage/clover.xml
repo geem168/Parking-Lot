@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1744277273818" clover="3.2.0">
+  <project timestamp="1744277273818" name="All files">
+    <metrics statements="34" coveredstatements="34" conditionals="12" coveredconditionals="12" methods="8" coveredmethods="8" elements="54" coveredelements="54" complexity="0" loc="34" ncloc="34" packages="1" files="3" classes="3"/>
+    <file name="car.js" path="C:\Users\ASUS\belajar-unit-test\parking-lot\src\domain\car.js">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="3" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="10" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+    </file>
+    <file name="parking-ticket.js" path="C:\Users\ASUS\belajar-unit-test\parking-lot\src\domain\parking-ticket.js">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="3" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="8" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+    </file>
+    <file name="parkingLot.js" path="C:\Users\ASUS\belajar-unit-test\parking-lot\src\domain\parkingLot.js">
+      <metrics statements="28" coveredstatements="28" conditionals="8" coveredconditionals="8" methods="6" coveredmethods="6"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="6" count="6" type="stmt"/>
+      <line num="7" count="6" type="stmt"/>
+      <line num="8" count="6" type="stmt"/>
+      <line num="13" count="9" type="stmt"/>
+      <line num="15" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="19" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="25" count="7" type="stmt"/>
+      <line num="26" count="7" type="stmt"/>
+      <line num="27" count="7" type="stmt"/>
+      <line num="28" count="7" type="stmt"/>
+      <line num="31" count="7" type="stmt"/>
+      <line num="36" count="2" type="stmt"/>
+      <line num="38" count="2" type="stmt"/>
+      <line num="39" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="41" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="42" count="1" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="46" count="1" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="53" count="1" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
